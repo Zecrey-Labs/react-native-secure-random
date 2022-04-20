@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.license      = package["license"]
   s.author       = { "Rob Hogan" => "npm@rhogan.net" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "git@github.com:Zecrey-Labs/react-native-secure-random.git", :tag => "main" }
+  s.source       = { :git => "git@github.com:Zecrey-Labs/react-native-secure-random.git", :tag => "master" }
   s.source_files = "ios/RNSecureRandom.{h,m}"
   s.requires_arc = true
   s.dependency "React"
