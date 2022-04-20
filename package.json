@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zecrey-Labs/react-native-secure-random.git"
+    "url": "git+git@github.com:Zecrey-Labs/react-native-secure-random.git"
   },
   "keywords": [
     "react-native",
